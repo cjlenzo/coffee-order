@@ -1,14 +1,14 @@
 package edu.iu.habahram.coffeeorder.model;
 
-public class DarkRoast extends Beverage{
+public class Decaf extends Beverage{
 
     @Override
     public String getDescription() {
-        return "Dark Roast";
+        return "Decaf";
     }
 
     @Override
     public float cost() {
-        return 1.99F;
+        return 1.28F;
     }
 }

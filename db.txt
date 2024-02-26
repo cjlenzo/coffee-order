@@ -1,0 +1,4 @@
+35304, Espresso (Milk) (Soy), 2.01
+75709, Decaf (Milk) (Whip), 1.93
+50796, Dark Roast (Milk) (Mocha), 2.69
+4284, House Blend, 1.65

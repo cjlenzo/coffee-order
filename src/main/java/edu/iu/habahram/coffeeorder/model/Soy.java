@@ -1,18 +1,18 @@
 package edu.iu.habahram.coffeeorder.model;
 
-public class Mocha extends CondimentDecorator{
+public class Soy extends CondimentDecorator{
 
-    public Mocha(Beverage beverage) {
+    public Soy(Beverage beverage) {
         this.beverage = beverage;
     }
 
     @Override
     public float cost() {
-        return  beverage.cost() + 0.3F;
+        return  beverage.cost() + 0.27F;
     }
 
     @Override
     public String getDescription() {
-        return beverage.getDescription() + " (Mocha)";
+        return beverage.getDescription() + " (Soy)";
     }
 }
