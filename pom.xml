@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>edu.iu.habahram</groupId>
 	<artifactId>coffee-order</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>0.0.1</version>
 	<name>coffee-order</name>
 	<description>Coffee Order API to showcase the decorator pattern.</description>
 	<properties>

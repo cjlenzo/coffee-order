@@ -1,4 +1,96 @@
-35304, Espresso (Milk) (Soy), 2.01
-75709, Decaf (Milk) (Whip), 1.93
-50796, Dark Roast (Milk) (Mocha), 2.69
-4284, House Blend, 1.65
+71520, Espresso, 1.34
+20155, Espresso (Soy), 1.61
+43228, Espresso (Milk) (Whip), 1.99
+28236, Espresso (Soy) (Milk) (Whip), 2.26
+64836, Decaf, 1.28
+2746, Decaf (Whip), 1.53
+46312, Decaf (Whip) (Soy), 1.8
+76020, Decaf (Whip) (Soy) (Mocha), 2.1
+40296, Dark Roast, 1.99
+87076, Dark Roast (Mocha), 2.29
+12493, Dark Roast (Mocha) (Milk), 2.69
+51501, Dark Roast (Mocha) (Milk) (Soy), 2.96
+59861, House Blend, 1.65
+88989, House Blend (Milk), 2.05
+51094, House Blend (Milk) (Mocha), 2.35
+48994, House Blend (Milk) (Soy) (Mocha), 2.62
+90970, Espresso, 1.34
+83599, Espresso (Soy), 1.61
+29597, Espresso (Milk) (Whip), 1.99
+66036, Espresso (Soy) (Milk) (Whip), 2.26
+61262, Decaf, 1.28
+26625, Decaf (Whip), 1.53
+77073, Decaf (Whip) (Soy), 1.8
+49232, Decaf (Whip) (Soy) (Mocha), 2.1
+23947, Dark Roast, 1.99
+76501, Dark Roast (Mocha), 2.29
+3998, Dark Roast (Mocha) (Milk), 2.69
+89121, Dark Roast (Mocha) (Milk) (Soy), 2.96
+50543, House Blend, 1.65
+75604, House Blend (Milk), 2.05
+70331, House Blend (Milk) (Mocha), 2.35
+58507, House Blend (Milk) (Soy) (Mocha), 2.62
+97213, Espresso, 1.34
+72350, Espresso (Soy), 1.61
+43042, Espresso (Milk) (Whip), 1.99
+32754, Espresso (Soy) (Milk) (Whip), 2.26
+47457, Decaf, 1.28
+42525, Decaf (Whip), 1.53
+37506, Decaf (Whip) (Soy), 1.8
+28668, Decaf (Whip) (Soy) (Mocha), 2.1
+68880, Dark Roast, 1.99
+11139, Dark Roast (Mocha), 2.29
+33101, Dark Roast (Mocha) (Milk), 2.69
+13549, Dark Roast (Mocha) (Milk) (Soy), 2.96
+11536, House Blend, 1.65
+81851, House Blend (Milk), 2.05
+4965, House Blend (Milk) (Mocha), 2.35
+86912, House Blend (Milk) (Soy) (Mocha), 2.62
+68346, Espresso, 1.34
+33398, Espresso (Soy), 1.61
+9795, Espresso (Milk) (Whip), 1.99
+33772, Espresso (Soy) (Milk) (Whip), 2.26
+8312, Decaf, 1.28
+99002, Decaf (Whip), 1.53
+77997, Decaf (Whip) (Soy), 1.8
+85438, Decaf (Whip) (Soy) (Mocha), 2.1
+29787, Dark Roast, 1.99
+88861, Dark Roast (Mocha), 2.29
+93609, Dark Roast (Mocha) (Milk), 2.69
+54151, Dark Roast (Mocha) (Milk) (Soy), 2.96
+45378, House Blend, 1.65
+27985, House Blend (Milk), 2.05
+99530, House Blend (Milk) (Mocha), 2.35
+90422, House Blend (Milk) (Soy) (Mocha), 2.62
+12073, Espresso, 1.34
+32579, Espresso (Soy), 1.61
+52268, Espresso (Milk) (Whip), 1.99
+25624, Espresso (Soy) (Milk) (Whip), 2.26
+58303, Decaf, 1.28
+68447, Decaf (Whip), 1.53
+34095, Decaf (Whip) (Soy), 1.8
+76434, Decaf (Whip) (Soy) (Mocha), 2.1
+62050, Dark Roast, 1.99
+41643, Dark Roast (Mocha), 2.29
+79579, Dark Roast (Mocha) (Milk), 2.69
+70004, Dark Roast (Mocha) (Milk) (Soy), 2.96
+89801, House Blend, 1.65
+73689, House Blend (Milk), 2.05
+39626, House Blend (Milk) (Mocha), 2.35
+50981, House Blend (Milk) (Soy) (Mocha), 2.62
+7074, Espresso, 1.34
+76712, Espresso (Soy), 1.61
+47404, Espresso (Milk) (Whip), 1.99
+58019, Espresso (Soy) (Milk) (Whip), 2.26
+36806, Decaf, 1.28
+96150, Decaf (Whip), 1.53
+26383, Decaf (Whip) (Soy), 1.8
+52590, Decaf (Whip) (Soy) (Mocha), 2.1
+23195, Dark Roast, 1.99
+96817, Dark Roast (Mocha), 2.29
+70579, Dark Roast (Mocha) (Milk), 2.69
+81307, Dark Roast (Mocha) (Milk) (Soy), 2.96
+94310, House Blend, 1.65
+89788, House Blend (Milk), 2.05
+41136, House Blend (Milk) (Mocha), 2.35
+29754, House Blend (Milk) (Soy) (Mocha), 2.62
