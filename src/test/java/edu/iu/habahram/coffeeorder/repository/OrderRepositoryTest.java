@@ -32,7 +32,7 @@ class OrderRepositoryTest {
         orderRepository.add(new OrderData("House Blend", List.of("Milk", "Mocha")));
         orderRepository.add(new OrderData("House Blend", List.of("Milk", "Soy", "Mocha")));
 
-        List<String> lines = Files.readAllLines(Path.of("db.txt"), StandardCharsets.UTF_8);
+        List<String> lines = orderRepository.getOrders();
         assertTrue(lines.get(0).contains("Espresso"));
         assertTrue(lines.get(1).contains("Espresso"));
         assertTrue(lines.get(1).contains("Soy"));
